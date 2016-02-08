@@ -1,2 +1,2 @@
 # amazon_scrape
-Scrapes comments about sellers at amazon
+Scrape comments about sellers at [amazon](http://www.amazon.com).
